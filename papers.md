@@ -1,18 +1,16 @@
 ---
 title: "Papers"
 summary: "About this page."
-date: 2016-04-13
+date: 2018-02-13
 layout: default
 ---
 
-"Papers" introductory paragraph.
-
 ## Working papers
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. Vivamus in ullamcorper ex, nec faucibus diam. Aenean eros purus, elementum sed nunc vitae, faucibus semper nibh. In ac nisl vitae massa scelerisque sagittis a elementum lectus.
+_Chu-Cheng Lin_, Jason Eisner. Neural particle smoothing for sampling from conditional sequence models. *In submission.*
 
 ## Published papers
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. Vivamus in ullamcorper ex, nec faucibus diam. Aenean eros purus, elementum sed nunc vitae, faucibus semper nibh. In ac nisl vitae massa scelerisque sagittis a elementum lectus.
+_Chu-Cheng Lin_, Dongyeop Kang, Michael Gamon, Madian Khabsa, Ahmed Hassan Awadallah, Patrick Pantel. Actionable email intent modeling with reparametrized RNNs. *AAAI, 2018.*
 
-Here is a paper, which you can find at [ResearchGate](http://dx.doi.org/10.13140/RG.2.1.1137.2247).
+_Chu-Cheng Lin_, Waleed Ammar, Chris Dyer, Lori Levin. Unsupervised POS induction with word embeddings. *NAACL, 2015.*
 
-<iframe style="margin: 10px 0 40px 0;" class="pdf-iframe" src="https://drive.google.com/file/d/0B-xXQEsWEjrUUmpBdkhIVS10YjA/preview" width="100%" height="768"></iframe>
+Ling Wang, _Chu-Cheng Lin_, Yulia Tsvetkov, Silvio Amir, Ramón Fernandez Astudillo, Chris Dyer, Alan Black, Isabel Trancoso. Not all contexts are created equal: Better word representations with variable attention. *EMNLP, 2015.*
