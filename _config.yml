@@ -39,16 +39,10 @@ menu:
  - page: Accolades
    url: /accolades
 menu_external:
- - title: OleVik.me
-   url: "http://olevik.me/"
- - title: Research Gate
-   url: "https://www.researchgate.net/profile/Ole_Vik"
- - title: LinkedIn
-   url: "https://no.linkedin.com/in/olehhvik"
- - title: Twitter
-   url: "https://twitter.com/olehhv"
+ - title: Homepage
+   url: "https://www.cs.jhu.edu/~kitsing"
 mathjax: false
 markdown: kramdown
 encoding: utf-8
-baseurl: 
+baseurl: kitsing.github.io
 locale: en_GB
