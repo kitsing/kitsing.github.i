@@ -6,7 +6,7 @@ layout: default
 ---
 
 ## Working papers
-**Chu-Cheng Lin**, Jason Eisner. Neural particle smoothing for sampling from conditional sequence models. *In submission.*
+**Chu-Cheng Lin**, Jason Eisner. Neural particle smoothing for sampling from conditional sequence models. *NAACL, 2018.*
 
 ## Published papers
 **Chu-Cheng Lin**, Dongyeop Kang, Michael Gamon, Madian Khabsa, Ahmed Hassan Awadallah, Patrick Pantel. Actionable email intent modeling with reparametrized RNNs. *AAAI, 2018.*
