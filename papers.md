@@ -8,6 +8,10 @@ layout: default
 ## Working papers
 
 ## Published papers
+**Chu-Cheng Lin**, Aaron Jaech, Xin Li, Matthew R. Gormley, Jason Eisner. [Limitations of autoregressive models and their alternatives](https://arxiv.org/abs/2010.11939). *NAACL, 2021.*
+
+**Chu-Cheng Lin**, Hao Zhu, Matthew R. Gormley, Jason Eisner. [Neural finite-state transducers: beyond rational relations](https://aclanthology.org/N19-1024/). *NAACL, 2019.*
+
 **Chu-Cheng Lin**, Jason Eisner. [Neural particle smoothing for sampling from conditional sequence models](https://arxiv.org/abs/1804.10747). *NAACL, 2018.*
 
 **Chu-Cheng Lin**, Dongyeop Kang, Michael Gamon, Madian Khabsa, Ahmed Hassan Awadallah, Patrick Pantel. [Actionable email intent modeling with reparametrized RNNs](https://arxiv.org/abs/1712.09185). *AAAI, 2018.*
