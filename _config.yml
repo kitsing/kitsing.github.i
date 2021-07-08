@@ -10,10 +10,7 @@ menu:
       url: "#working-papers"
     - title: Published papers
       url: "#published-papers"
-menu_external:
- - title: Homepage
-   url: "https://www.cs.jhu.edu/~kitsing"
-mathjax: false
+mathjax: true
 markdown: kramdown
 encoding: utf-8
 baseurl: kitsing.github.io
